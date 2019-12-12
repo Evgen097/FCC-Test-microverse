@@ -1,0 +1,48 @@
+
+#main{
+    margin: 50px;
+    display: block;
+    background-color: cadetblue;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    height: 200px;
+    vertical-align: center;
+    line-height: 200px;
+}
+
+#img-div{
+    width: 100%;
+    /*margin: 50px auto;*/
+    /*background-color: aqua;*/
+}
+#image{
+    display: block;
+    background-color: coral;
+    margin: 0 auto;
+}
+
+#img-caption{
+    margin: 50px auto;
+    background-color: aqua;
+}
+
+#tribute-info{
+    background-color: darkgray;
+}
+ul{
+    width: 500px;
+    margin: 50px auto;
+}
+li{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
